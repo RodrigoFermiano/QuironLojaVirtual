@@ -7,7 +7,7 @@ namespace Quiron.LojaVirtual.UnitTest
     public class UnitTestQuiron
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestMethod()
         {
         }
     }
